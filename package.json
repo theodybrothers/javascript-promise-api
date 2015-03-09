@@ -1,0 +1,11 @@
+{
+  "name": "javascript-promise-api",
+  "version": "0.1.0",
+  "description": "Sharpening the JavaScript Saw by Building a Promise API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Ody",
+  "license": "MIT"
+}
